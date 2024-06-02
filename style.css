@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#FFDB73, #A67B00);
+}
+header{
+    height: 100px;
+}
+.link-header{
+    color: #03406A;
+    padding: 5px;
+    margin: auto;
+    font-size: 30px;
+    text-decoration: none;   
+    display: block;  text-align:center;
+}
+.link-header:hover{
+    color: antiquewhite;
+    font-size: 50px;
+    transition: all 3s linear;
+}
+.link-nav{
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 100px;
+    font-size: 20px;
+    border:  2px solid blue;
+    border-radius: 5px;
+    padding: 3px;
+    background-image: linear-gradient(#FFF940, #A668D5);
+}
+.link-nav:hover{
+    color: blanchedalmond;
+}
+img:hover{
+    width: 850px;
+    height: 570px;
+    border: 3px solid black;
+}
